@@ -1,0 +1,27 @@
+li body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: yellow;
+}
+
+p {
+    color: red;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.red {
+    color: red;
+}
+
+#h1tag {
+    background-color: black;
+}
+
+#practice_table th {
+    color: blue;
+}
